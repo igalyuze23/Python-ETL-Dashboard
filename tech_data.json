@@ -1,0 +1,21 @@
+{
+    "company_info": {
+        "name": "TechCore Solutions",
+        "established": 2024,
+        "manager": "Israel Israeli"
+    },
+    "inventory": {
+        "Laptops": 45,
+        "Smartphones": 8,
+        "Tablets": 12,
+        "Smartwatches": 3,
+        "Headphones": 50
+    },
+    "sales_revenue": {
+        "Laptops": 120000,
+        "Smartphones": 45000,
+        "Tablets": 32000,
+        "Smartwatches": 15000,
+        "Headphones": 8000
+    }
+}
